@@ -4,6 +4,8 @@ import icon from '../../assets/img/notification-icon.svg';
 import { BASE_URL } from '../../utils/request';
 import './style.css';
 
+
+
 type Props = {
   saleId: number;
 }
